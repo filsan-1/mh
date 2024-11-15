@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+passlib
+bcrypt
+react
+recharts
+react-router-dom
